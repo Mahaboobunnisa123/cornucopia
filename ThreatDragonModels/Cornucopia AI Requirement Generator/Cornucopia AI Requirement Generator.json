@@ -1,0 +1,26 @@
+{
+  "version": "2.6.2-RC1",
+  "summary": {
+    "title": "Cornucopia AI Requirement Generator",
+    "owner": "Mahaboobunnisa123",
+    "description": "Threat model and DFD Cornucopia AI requirement generation system.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "AI Requirement Generation DFD",
+        "diagramType": "EOP",
+        "placeholder": "New EoP games diagram description",
+        "thumbnail": "./public/content/images/thumbnail.eop.jpg",
+        "version": "2.6.2-RC1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Johan Sydseter",
+    "threatTop": 0
+  }
+}
